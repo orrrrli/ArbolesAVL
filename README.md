@@ -46,9 +46,7 @@ typedef struct arbol{
 
 This repository is for personal practice, but if you have any suggestions or improvements for the code or documentation, feel free to submit a pull request. Any constructive contributions are welcome.
 
-### License
 
-This code is available under the [License Name]. Check the LICENSE file for more details.
 
 ### Resources
 
